@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="737" alt="banner6" src="https://github.com/user-attachments/assets/3c442672-7bdf-4204-b7e4-84ec46af56d1">
+
 
 <!--
 **what-the-hek/what-the-hek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
