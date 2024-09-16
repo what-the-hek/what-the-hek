@@ -5,7 +5,7 @@ I'm a full stack developer based in Western Australia.
 
 I moved into tech in 2023 with a background in business process improvement, policy development and communications. 
 
- - <a href="https://shecodes.com.au/">She Codes Plus</a> alumni and mentor
+ - <a href="https://shecodes.com.au/">She Codes</a> alumni and mentor
  - currently learning game development
  - dungeons and dragons player / miniature sculptor and painter
 
