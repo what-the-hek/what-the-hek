@@ -14,6 +14,7 @@ Current tech stack:
  - Angular
  - HTML
  - CSS
+ - learning C#
 
 <img width="3%" alt="code image" src="https://github.com/user-attachments/assets/534527e3-9315-41a9-9a8b-076f7cc9f4c9">
 <img width="3%" alt="game controller" src="https://github.com/user-attachments/assets/73a8f451-de5d-4305-bdbd-bda29083ee49">
