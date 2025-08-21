@@ -1,4 +1,4 @@
-<img max-width="100%" alt="Jessica Hek, full stack developer banner" src="https://github.com/user-attachments/assets/dd30679a-873a-4734-afd1-a31cd08b6d5a">
+<img max-width="100%" alt="Jessica Hek, full stack developer banner" src="">
 
 
 I'm a full stack developer based in Western Australia.
