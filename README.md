@@ -1,4 +1,4 @@
-<img max-width="100%" alt="Jessica Hek, full stack developer banner" src="">
+<img max-width="100%" alt="Jess, full stack developer banner" src="">
 
 
 I'm a full stack developer based in Western Australia.
